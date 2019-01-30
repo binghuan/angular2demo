@@ -32,3 +32,6 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 
 ## DEMO
 https://bhangular2demo.firebaseapp.com
+
+## illustration
+![illustration](./images/illustration.png)
